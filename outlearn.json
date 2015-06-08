@@ -3,13 +3,13 @@
 
   "paths" : [
     {
-      "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
-      "description" : "Fastest Way to Publish a Path",
+      "name" : "chartbeat-jquery",
+      "title" : "Using the Chartbeat JQuery Plugin",
+      "description" : "Using the Chartbeat JQuery Plugin for fun and profit",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "my-outlearn-module"},
+        {"module" : "chartbeat-jquery-module"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -17,7 +17,7 @@
 
   "modules" : [
     {
-      "olm" : "./modules/my-outlearn-module.md"
+      "olm" : "./modules/chartbeat-jquery-module.md"
     }
   ],
 
